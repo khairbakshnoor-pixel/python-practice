@@ -1,0 +1,10 @@
+n=int(input("enter a number"))
+
+a=1
+while a<=n:
+    j=1
+    while j<=a:
+       print(a,end=" ")
+       j=j+1
+    a=a+1
+    print()
