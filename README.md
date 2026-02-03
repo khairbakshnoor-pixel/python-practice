@@ -1,4 +1,4 @@
-🐍 Python Practice Repository
+#🐍 Python Practice Repository
 
 Welcome to my Python Practice Repository 👋
 This repository contains my hands-on Python practice files, covering core programming concepts, problem-solving, patterns, functions, file handling, and data analysis using Python.
